@@ -156,6 +156,13 @@ Original project repository:
 
 ---
 
+---
+## Demo Video
+
+[![Genetic Algorithm TSP Demo](https://img.youtube.com/vi/1ToqqOZR-kk/0.jpg)](https://www.youtube.com/watch?v=1ToqqOZR-kk)
+
+---
+
 ## References
 
 Alexander, A., & Sriwindono, H. (2020). *The comparison of genetic algorithm and ant colony optimization in completing travelling salesman problem*. In **Proceedings of the 2nd International Conference of Science and Technology for the Internet of Things (ICSTI 2019)**. EAI. [https://doi.org/10.4108/eai.20-9-2019.2292121](https://doi.org/10.4108/eai.20-9-2019.2292121)
